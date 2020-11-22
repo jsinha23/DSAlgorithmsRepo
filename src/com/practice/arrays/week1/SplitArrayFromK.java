@@ -1,5 +1,15 @@
 package com.practice.arrays.week1;
 
+
+/*1. split the array and add the 1st part to end
+Input : arr[] = {12, 10, 5, 6, 52, 36}
+            k = 2
+Output : arr[] = {5, 6, 52, 36, 12, 10}
+Explanation : Split from index 2 and first 
+part {12, 10} add to the end .*/
+
+
+//Time Complexity:O(n)
 public class SplitArrayFromK {
 	
 	public static void main(String args[]) {

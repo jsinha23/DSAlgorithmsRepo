@@ -1,5 +1,7 @@
 package com.practice.arrays.week1;
 
+/*search, insert and delete operation in a sorted array*/
+//Time Complexity:O(n)-insert delete,search  O(log n)
 public class CrudOperationsArrays {
 	public static void main(String args[]) {
 		int arr[] = new int[20];
