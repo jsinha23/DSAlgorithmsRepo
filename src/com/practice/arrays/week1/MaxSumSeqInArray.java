@@ -8,7 +8,6 @@ Lets take the example:
     above example quoted will get us max sum 7
  */
 
-import java.util.stream.IntStream;
 
 public class MaxSumSeqInArray {
     public static void main(String[] args) {

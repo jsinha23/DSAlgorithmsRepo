@@ -14,7 +14,6 @@ arr[] = {2, 1, 3, 6, 5}
  */
 
 
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.IntStream;
 
 public class MinimumSwap {
