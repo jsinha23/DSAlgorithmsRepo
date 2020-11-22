@@ -13,7 +13,6 @@ target
 *.swp
 datanucleus.log
 /bin/
-/bin/
-/bin/
+/out/**
 *.log
 event-sourcing/Journal.json
