@@ -1,0 +1,11 @@
+To Anil:
+-----------------
+1.Check given matrix is magic square or not
+2.Count sub-matrices having sum divisible ‘k’
+3.XOR of numbers that appeared even number of times in given Range
+Given an array of numbers of size N and Q queries. Each query or a range can be represented by L 
+(LeftIndex) and R(RightIndex). Find the XOR-sum of the numbers that 
+appeared even number of times in the given range.
+4.We are given desired array target[] containing n elements. Compute and return the smallest possible number of the operations needed to change the array from all zeros to desired array.
+5.Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
+in time O(log n)
