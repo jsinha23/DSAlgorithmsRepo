@@ -32,8 +32,7 @@ To Jyoti:
   We can make only two pairs 
   with difference less than 3.
   (1, 2) and (4, 2)
-4. Find all missing elements in an array
-   ex: {1,2,4,5,9}, length : 10
+4. Find Two Missing Numbers in an array with O(n) time complexity and O(1) Extra Space
 5. Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 
   Examples:  
