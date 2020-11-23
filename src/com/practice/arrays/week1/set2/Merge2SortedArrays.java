@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set2;
 
 import java.util.Arrays;
 /*Merge two sorted arrays with O(1) extra space*/

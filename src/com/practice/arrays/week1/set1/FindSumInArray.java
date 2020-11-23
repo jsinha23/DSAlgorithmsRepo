@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /*
 Given an unsorted array of non negative integers, find a continuous subarray which adds to a given number.

@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /*
 Given an array of n positive integers and a number k. Find the minimum number of swaps required to bring all the numbers less than or equal to k together.

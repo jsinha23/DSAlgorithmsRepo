@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /*search, insert and delete operation in a sorted array*/
 //Time Complexity:O(n)-insert delete,search  O(log n)

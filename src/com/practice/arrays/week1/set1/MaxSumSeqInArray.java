@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /*
 Write an efficient program to find the sum of contiguous subarray within a one-dimensional array of numbers

@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set2;
 
 
 /*1. split the array and add the 1st part to end

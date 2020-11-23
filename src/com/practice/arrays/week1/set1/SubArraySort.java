@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /* find the minimum length subarray arr[s..e] such that sorting this subarray makes the whole array sorted
 ex: If the input array is [10, 12, 20, 30, 25, 40, 32, 31, 35, 50, 60], your program should be able to find that the subarray lies between the indexes 3 and 8*/

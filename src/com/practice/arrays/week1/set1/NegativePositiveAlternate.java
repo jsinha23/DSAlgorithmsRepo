@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set1;
 
 /*2. An array contains both positive and negative numbers in random order. Rearrange the array elements so that positive and negative numbers are placed alternatively
  * 

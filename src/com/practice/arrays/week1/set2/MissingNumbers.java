@@ -1,4 +1,4 @@
-package com.practice.arrays.week1;
+package com.practice.arrays.week1.set2;
 
 /* Find Two Missing Numbers in an array with O(n) time complexity and O(1) Extra Space*/
 
