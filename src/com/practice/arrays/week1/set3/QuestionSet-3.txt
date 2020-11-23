@@ -9,3 +9,29 @@ appeared even number of times in the given range.
 4.We are given desired array target[] containing n elements. Compute and return the smallest possible number of the operations needed to change the array from all zeros to desired array.
 5.Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
 in time O(log n)
+
+
+To Jyoti:
+-------------------
+1. Divide and Conquer | Set 5 (Strassen’s Matrix Multiplication)
+2. Implement two stacks in an array
+3. k-th missing element in sorted array
+  Input : a[] = {2, 3, 5, 9, 10};   
+        k = 1;
+Output : 4
+Explanation: Missing Element in the increasing 
+sequence are {4, 6, 7, 8}. So k-th missing element
+is 4
+
+4. Maximum number of partitions that can be sorted individually to make sorted
+  Input : arr[] = [2, 1, 0, 3]
+Output : 2
+If divide arr[] into two partitions
+{2, 1, 0} and {3}, sort then and concatenate
+then, we get the whole array sorted.
+
+5. Find minimum number of merge operations to make an array palindrome
+  Input : arr[] = {15, 4, 15}
+Output : 0
+Array is already a palindrome. So we
+do not need any merge operation.
