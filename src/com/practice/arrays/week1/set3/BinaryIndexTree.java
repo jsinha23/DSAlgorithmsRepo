@@ -1,6 +1,8 @@
 package com.practice.arrays.week1.set3;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class BinaryIndexTree {
     public static void main(String[] args) {
@@ -11,6 +13,27 @@ public class BinaryIndexTree {
 
         // Build fenwick tree from given array
         tree.constructBITree(freq, n);
+
+        Query[] queries = new Query[5];
+
+        // Intializing values (L, R, idx) to queries
+        queries[0].L = 3;
+        queries[0].R = 6;
+        queries[0].idx = 0;
+        queries[1].L = 3;
+        queries[1].R = 4;
+        queries[1].idx = 1;
+        queries[2].L = 0;
+        queries[2].R = 2;
+        queries[2].idx = 2;
+        queries[3].L = 0;
+        queries[3].R = 6;
+        queries[3].idx = 3;
+        queries[4].L = 0;
+        queries[4].R = 4;
+        queries[4].idx = 4;
+
+
 
         System.out.println("Sum of elements in arr[0..5] is "+ tree.getSum(5));
     }
@@ -87,6 +110,6 @@ public class BinaryIndexTree {
     }
 
     private static class Query {
-        int l, r, idx;
+        int L, R, idx;
     }
 }
